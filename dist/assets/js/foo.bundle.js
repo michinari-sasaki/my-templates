@@ -1,1 +1,1 @@
-(()=>{"use strict";console.log("unnko")})();
+!function(){"use strict";console.log("unnko")}();

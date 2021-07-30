@@ -10,6 +10,10 @@
     "webpack": "webpack --watch",
     "imgmin": "chokidar \"src/assets/img/**/*\" --command \"node imagemin.js\" --initial"
   },
+  "browserslist": [
+    "last 2 version",
+    "> 1% in JP"
+  ],
   "keywords": [],
   "author": "",
   "license": "ISC",
