@@ -1,1 +1,1 @@
-!function(){"use strict";console.log("どうかな")}();
+!function(){"use strict";console.log("どうかなテスト")}();
